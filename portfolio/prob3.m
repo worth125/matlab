@@ -29,7 +29,6 @@ clear all; close all; clc;
 t = 0:30;
 p = 100*0.82.^t;
 semilogy(t,p,'linewidth',4);
-disp(100*(0.82^4.5))
 
 %%
 clc, clear all, close all;

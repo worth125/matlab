@@ -1,0 +1,6 @@
+b. Semilogy: good for graphs that increase exponentionally in the y direction but not in the x direction. 
+
+Loglog: good for graphs that increase exponentionally in both directions
+
+c. Initial Pressure: 100, because 0.85^0 = 1
+d. at 4.5 seconds pressure = 40.9414, becacause 100*(0.82^4.5) = 40.9414

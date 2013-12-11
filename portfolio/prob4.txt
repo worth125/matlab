@@ -1,0 +1,7 @@
+The variables represent the number adults, children, seniors and students that are entering my movie theater
+
+the constants represent the total income we get from charging them a certain amount of cash to get into the movie 
+
+The coefficients represent how much we charged them on different nights. 
+
+Each number represents the number of adults, children, seniors and students that satisfy the desired income and price values in the system of equations. 

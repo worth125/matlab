@@ -1,0 +1,18 @@
+Jo
+babyFace
+Sheng
+22xyz
+alec
+yes!
+What is your username?alec
+What is your password?blah
+Access denied
+What is your username?alec
+What is your password?yes!
+You're in!
+bigwig
+watership
+What is your username?bigwig
+Choose a passwordwatership
+What is your username?bombadil
+Sorry, there is no record of this user name

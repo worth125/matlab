@@ -1,0 +1,15 @@
+C) 'r' opens a file for reading. 'a' opens/creates a file for appending to the end of the file. 
+
+D) strcmpi ignores case, which can be helpful for detecting a user name. Passwords, on the other hand, are necessarily case sensitive and so we use strcmp to compare them. 
+
+E) fid is the variable that represents the file we read from and/or append to. 
+
+F) if fgetl returns a -1 then you have reached the end of the file. 
+
+G) we use [~] to avoid the input of the password (probably so we don't reveal someone's else's password
+
+H) we have to prime the while loop with a name to test the condition
+
+I) the 's' flag was used to indicate that the input is a string
+
+J) use two apostrophes ''
